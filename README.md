@@ -1,13 +1,13 @@
-<h1 align="center">Heyy 👋, I'm Chhavi</h1>
+<h1 align="center">Heyy 👋, I'm Chhavi Thakur</h1>
 <h3 align="center">Student at NIT Hamirpur.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhaviii52&label=Profile%20views&color=0e75b6&style=flat" alt="chhaviii52" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development.**
+- I’m currently learning **Backend Development.**
 
-- 📫 How to reach me **uchhavi08@gmail.com**
+- How to reach me **uchhavi08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

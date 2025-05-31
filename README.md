@@ -1,5 +1,5 @@
 <h1 align="center">Heyy 👋, I'm Chhavi Thakur</h1>
-<h3 align="center">Student at NIT Hamirpur.</h3>
+<h3 align="center">Code the web. Solve the logic. Grow every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhaviii52&label=Profile%20views&color=0e75b6&style=flat" alt="chhaviii52" /> </p>
 
